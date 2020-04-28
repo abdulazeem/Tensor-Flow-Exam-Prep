@@ -1,6 +1,6 @@
 # Tensor-Flow-Developer-Exam-Practice
 
-The above Python Notebooks were created to practice for the Tensor Flow developer certification exam, which consists of the following four subject areas practice with Tensor Flow 2.0.
+The Python Notebooks in this folder were created to practice for the Tensor Flow certification exam, which constitutes of the following four areas:
 
 ### 1) Basic Deep Neural Networks in TensorFlow
 ### 2) Convolutional Neural Networks for Images in TensorFlow
